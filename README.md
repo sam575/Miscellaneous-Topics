@@ -8,7 +8,7 @@ Topics Learned:
 * Recommendation Systems
 * Anomaly Detection 
 
-Assignment solutions available for Recommendations systems and Anomaly Detection
+Assignment solutions available for Recommendation systems and Anomaly Detection
 
 ## Neural Networks - Geoffrey Hinton - Coursera 
 
